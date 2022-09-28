@@ -8,14 +8,15 @@ body{
 }
 
 p{
-    height: 100vh;
-        width: 100%;
-        background-image: url(https://64.media.tumblr.com/6ff6d22beb7d0dc85b41b5b00a641b98/508946f358df96fa-c4/s540x810/c2a20081bdf53b7b4de607196679031c16c4af06.gif);
-        background-position: center;
-        background-size: cover;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+    background-color: rgb(171, 231, 233);
+    text-align: center;
+    font-size: 25px;
+    color: #1a1a1a;
+    display: block;
+    position: absolute;
+    padding: 10px 50px 20px;
+    text-align: center;
+    border-radius: 10px;
 }
 
 .app{
